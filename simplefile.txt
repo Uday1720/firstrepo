@@ -1,5 +1,9 @@
-Every 
+Every (Change on line 1)
 Good
+<<<<<<< HEAD
 Boy (changes on line 3)
+=======
+Boy (Change on line 3)
+>>>>>>> alternative
 Deserves
 favor (changes on line 5)
